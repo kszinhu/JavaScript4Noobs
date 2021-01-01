@@ -13,9 +13,8 @@
     </a>
   </p>
 
-<h2> 
-	 ℹ - Sobre o Repositório
-</h2>
+## ℹ - Sobre o Repositório
+
   <p>Olá, jovem padawan! Como sabe Javascript é uma linguagem de programação que nos ajuda a executar nosso código através do navegador, Podendo lidar com quaisquer eventos entre o usuário e o site. Sendo uma das linguagens mais utilizadas e pesquisadas segundo o <a href="http://pt.stackoverflow.com/">StackOverflow</a>, Portanto esse Guia lhe permitirá que você viaje dentro desse mundo 🌎.</p>
   <p>O repositório tem como finalidade de aprender e aprimorar o conhecimento na linguagem (JavaScript), tendo o público alvo os novos dev's. Dentro do repositório, haverá <strong>5 módulos</strong> (listados mais abaixo), explicando o básico da linguagem e contendo algumas propostas de exercícios (todos resolvidos, contidos dentro do próprio repositório). Tudo isso para que você possa colocar a mão na massa 😁.</p>
   <p>Fico alegre que tenha chegado até este repositório e possamos nos aventurar junto nesse <strong>Grande Mundo de Possiblidade🌎</strong></p>
@@ -27,11 +26,9 @@
 - [x] Em elaboração
 - [ ] Concluído
 
-<h2> 
-	📚 - Módulos
-</h2>
+## 📚 - Módulos
 
-1. [Ambiente de programação](Url)
+1. [Ambiente de programação](https://github.com/kszinhu/JavaScript4Noobs/blob/main/Ambiente/Ambiente.md)
 >_IDE/Editor de Texto e configurações para programação em JS_
 2. [Básico](Url)
 >_Módulo com os recursos básicos da linguagem como: Tipos de várivel e Tratamentos de dados, Estruturas Condicionais e de Repetições_
@@ -40,6 +37,7 @@
 4. [Avançando](Url)
 >_Array,Object, modularização, RegEx, JSON, AJAX, NodeJS_
 
-<h2> 👨🏽‍💻 - Autores e Colaboradores </h2>
+## 👨🏽‍💻 - Autores e Colaboradores
 
 - **Cassiano Henrique Aparecido Rodrigues** - [Linkedin](https://www.linkedin.com/in/cassiano-rodrigues-28bb8b16a/)
+- **Dhiego Cassiano Fogaça Barbosa** - [Linkedin](https://www.linkedin.com/in/modscleo4/)
