@@ -1,18 +1,14 @@
 <h1 align="center"> 
-	 Ambiente de programaÁ„o
+  Ambiente de programa√ß√£o
 </h1>
 
 <p align="center">
-  <img alt="Editor de Texto, com elementos artÌsticos" src=".github/IDE_Banner.png" width="350px">
-
-  <p align="center">Editor de Texto ou <strong>IDE</strong>  s„o frequentemente equipados com pacotes de desenvolvimento de software.</p>
+  <img alt="Editor de Texto com elementos art√≠sticos" src="../.github/IDE_Banner.png" width="350px"/>
+  <p>Editor de Texto ou <b>IDE</b> s√£o frequentemente equipados com pacotes de desenvolvimento de software.</p>
 </p>
 
-<p>Como vamos tratar do JavaScript ser· necess·rio o uso de uma IDE para que possa executar seus cÛdigos, porÈm n„o ser· necess·rio nada complexo, caso tenha alguma preferÍncia em Editor de Texto ou mesmo uma IDE, sinta-se a vontade.</p>
+<p>Como vamos tratar do JavaScript ser√° necess√°rio o uso de uma IDE para que possa desenvolver seus c√≥digos, por√©m n√£o ser√° necess√°rio nada complexo, caso tenha alguma prefer√™ncia em Editor de Texto ou mesmo uma IDE, sinta-se a vontade.</p>
 
-<p>Caso, n„o tenha preferÍncia e n„o saiba qual escolher, sugiro o Visual Studio Code (VSC)</p>
-<a href="https://code.visualstudio.com/">
-	<p>
-		[Link para Download]
-	</p>
-</a>
+<p>Caso n√£o tenha prefer√™ncia e n√£o saiba qual escolher, sugiro o Visual Studio Code (VSC)</p>
+
+[Link para Download](https://code.visualstudio.com/)
