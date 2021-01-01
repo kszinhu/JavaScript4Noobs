@@ -27,6 +27,18 @@
 - [x] Em elaboração
 - [ ] Concluído
 
+<h2> 
+	📚 - Módulos
+</h2>
+
+1. [Ambiente de programação](Url)
+>_IDE/Editor de Texto e configurações para programação em JS_
+2. [Básico](Url)
+>_Módulo com os recursos básicos da linguagem como: Tipos de várivel e Tratamentos de dados, Estruturas Condicionais e de Repetições_
+3. [DOM (Document Object Model)](Url)
+>_Contém explicação e alguns usos básicos do recurso_
+4. [Avançando](Url)
+>_Array,Object, modularização, RegEx, JSON, AJAX, NodeJS_
 
 <h2> 👨🏽‍💻 - Autores e Colaboradores </h2>
 
