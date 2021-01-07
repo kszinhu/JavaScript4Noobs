@@ -2,10 +2,10 @@
   Ambiente de programação
 </h1>
 
-<figure align="center">
+<p align="center">
   <img alt="Editor de Texto com elementos artísticos" src="../.github/IDE_Banner.png" width="350px"/>
   <p>Editor de Texto ou <b>IDE</b> são frequentemente equipados com pacotes de desenvolvimento de software.</p>
-</figure>
+</p>
 
 <p>Como vamos tratar do JavaScript será necessário o uso de uma IDE para que possa desenvolver seus códigos, porém não será necessário nada complexo, caso tenha alguma preferência em Editor de Texto ou mesmo uma IDE, sinta-se a vontade.</p>
 
@@ -27,10 +27,10 @@ Como o JavaScript é uma linguagem de <i>script</i> para WEB, podemos usar o pr�
 
 <li> Pressione os três pontinhos no canto superior direito.</li>
 
-<figure align="center">
+<p align="center">
   <img alt="Editor de Texto com elementos artísticos" src="../.github/Ambiente_8.png" width="550px"/>
   <figcaption>Observe a secção em vermelho é a página em HTML</figcaption>
-</figure>
+</p>
 
 Observe o retângulo amarelo, selecione a opcão que separa a janela.
 

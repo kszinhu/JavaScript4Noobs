@@ -2,9 +2,9 @@
   Variáveis em JavaScript
 </h1>
 
-<figure align="center">
+<p align="center">
   <img alt="Editor de Texto com elementos artísticos" src="../.github/VAR1_Banner.png" width="350px"/>
-</figure>
+</p>
 <p align="center"><strong>Declaração de Variável</strong></p>
 
 Olá, vamos começar os estudos com a criação e manipulação de dados.
@@ -42,18 +42,18 @@ Uma das vantagens do JavaScript em colocar declarações de função na memória
 
 > (_Como se a Linguagem levasse a declaração para cima_)
 
-<figure align="center">
+<p align="center">
   <img alt="Console de Depuração do Navegador, com uma sequencia de declaração de função" src="../.github/Ambiente_3.png" width="300px"/>
-</figure>
+</p>
 
 > `fuction` - Declaração de uma função (será comentado melhor mais tarde 😃).
 > `return` - Após termino da execução da função e especifica um valor a ser devolvido ao chamador de função.
 
 Deve fixar que **somente** as declarações sáo hoisted(içadas, em português), por exemplo:
 
-<figure align="center">
+<p align="center">
   <img alt="Console de Depuração do Navegador, com uma sequencia de declaração de função" src="../.github/Ambiente_4.png" width="300px"/>
-</figure>
+</p>
 
 > Observe que a atribuição não aparece `(num = 6)`, mas sim `undefined`, por somente ter declarado o espaço para alocar a variável.
 
@@ -61,18 +61,18 @@ Deve fixar que **somente** as declarações sáo hoisted(içadas, em português)
 
 A diferença entre eles é em relação ao escopo, na qual o <strong>escopo</strong> é acessibilidade de objetos, variáveis e funções em diferentes partes do código, de forma curta ele é quem determina quais são os dados que podem ser acessados em uma determinada parte do código.
 
-<figure align="center">
+<p align="center">
   <img alt="Editor de Texto com uma função soma" src="../.github/Ambiente_2.png" width="350px"/>
-</figure>
+</p>
 
 > `console.log` - Exibe uma mensagem no Console.
 
 Para entendermos as secções do escopo, veja a imagem abaixo:
 
-<figure align="center">
+<p align="center">
   <img alt="Editor de Texto com comentários das secções de escopo" src="../.github/Ambiente_5.png" width="350px"/>
   <figcaption><i>Observe as posições dos comentários</i></figcaption>
-</figure>
+</p>
 
 <ul>
   <li><b>Global</b></li>
@@ -81,17 +81,17 @@ Para entendermos as secções do escopo, veja a imagem abaixo:
 
   Sendo uma característica única da declaração `var`.
 
-<figure align="center">
+<p align="center">
   <img alt="Editor de Texto com declaração e exibição da atribuição" src="../.github/Ambiente_6.png" width="450px"/>
   <figcaption align="center"><i>A var em  <strong>escopo global</strong></i></figcaption>
-</figure>
+</p>
 
-<figure align="center">
+<p align="center">
   <img alt="Editor de Texto com declaração e exibição da atribuição" src="../.github/Ambiente_7.png" width="450px"/>
   <figcaption align="center">
     <i>Var sendo usada em <strong>escopo de função</strong></i>
   </figcaption>
-</figure>
+</p>
 
 Perceba que ao sair da função **não temos mais o acesso a variável**.
 
@@ -116,9 +116,9 @@ var num_text = '72' // Vai ser considerado um texto, não como um número
 var text = "Pedro Ferreira Caliman" // Vai ser atribuído a cadeia de caracteres a variável text
 ```
 
-<figure align="center">
+<p align="center">
   <img alt="Console de Depuração do Navegador, com uma sequencia de declaração" src="../.github/Ambiente_1.png" width="300px"/>
-</figure>
+</p>
 
 ### ⚠ - Tipagem dinâmica
 
