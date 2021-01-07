@@ -34,7 +34,14 @@ Então há três formas de declarar uma nova variável, em seu código, elas sã
     <li>Const</li>
 </ul>
 
-Para que possa usa-las vamos enteder suas diferenças primeiro 😎, mas ainda assim precisamos saber como funciona esses termos: Hoisting e Escopo em JavaScript .
+Para que possa usa-las vamos enteder suas diferenças primeiro 😎, mas ainda assim precisamos saber como funciona esses termos: Hoisting e Escopo em JavaScript.
+
+<small>Para isso clique no cursor ao lado de "*Explicação de Conceitos*".</small>
+
+<details>
+  <summary>
+    📃 - <b>Explicação de Conceitos</b>
+  </summary>
 
 ##### *️⃣ - Hoisting
 
@@ -74,6 +81,7 @@ Para entendermos as secções do escopo, veja a imagem abaixo:
   <figcaption><i>Observe as posições dos comentários</i></figcaption>
 </p>
 
+
 <ul>
   <li><b>Global</b></li>
 
@@ -105,6 +113,8 @@ Perceba que ao sair da função **não temos mais o acesso a variável**.
 
 </ul>
 
+</details> <!-- Conceitos -->
+
 ### 1️⃣ - Strings
 
 O tipo `String` é usado para representar texto, mais especificamente uma Cadeia de caracteres.
@@ -117,7 +127,7 @@ var text = "Pedro Ferreira Caliman" // Vai ser atribuído a cadeia de caracteres
 ```
 
 <p align="center">
-  <img alt="Console de Depuração do Navegador, com uma sequencia de declaração" src="../.github/Ambiente_1.png" width="300px"/>
+  <img alt="Console de Depuração do Navegador, com uma sequencia de declaração" src="../.github/string1.png" width="300px"/>
 </p>
 
 ### ⚠ - Tipagem dinâmica
