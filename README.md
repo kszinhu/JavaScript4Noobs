@@ -30,7 +30,7 @@
 
 1. [Ambiente de programação](https://github.com/kszinhu/JavaScript4Noobs/blob/main/Ambiente/Ambiente.md)
 >_IDE/Editor de Texto e configurações para programação em JS_
-2. [Básico]([Url](https://github.com/kszinhu/JavaScript4Noobs/blob/main/Ambiente/Basico.md))
+2. [Básico](https://github.com/kszinhu/JavaScript4Noobs/blob/main/básico/Basico.md)
 >_Módulo com os recursos básicos da linguagem como: Tipos de várivel e Tratamentos de dados, Estruturas Condicionais e de Repetições_
 3. [DOM (Document Object Model)](Url)
 >_Contém explicação e alguns usos básicos do recurso_
