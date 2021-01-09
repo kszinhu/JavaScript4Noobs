@@ -34,7 +34,7 @@ Então há três formas de declarar uma nova variável, em seu código, elas sã
     <li>Const</li>
 </ul>
 
-Para que possa usa-las vamos enteder suas diferenças primeiro 😎, mas ainda assim precisamos saber como funciona esses termos: Hoisting e Escopo em JavaScript.
+Para que possa usá-las vamos enteder suas diferenças primeiro 😎, mas ainda assim precisamos saber como funciona esses termos: Hoisting e Escopo em JavaScript.
 
 <small>Para isso clique no cursor ao lado de "*Explicação de Conceitos*".</small>
 
@@ -78,7 +78,7 @@ Para entendermos as secções do escopo, veja a imagem abaixo:
 
 <p align="center">
   <img alt="Editor de Texto com comentários das secções de escopo" src="../.github/Ambiente_5.png" width="350px"/>
-  <figcaption><i>Observe as posições dos comentários</i></figcaption>
+  <p><i>Observe as posições dos comentários</i></p>
 </p>
 
 
@@ -91,14 +91,14 @@ Para entendermos as secções do escopo, veja a imagem abaixo:
 
 <p align="center">
   <img alt="Editor de Texto com declaração e exibição da atribuição" src="../.github/Ambiente_6.png" width="450px"/>
-  <figcaption align="center"><i>A var em  <strong>escopo global</strong></i></figcaption>
+  <p align="center"><i>A var em  <strong>escopo global</strong></i></p>
 </p>
 
 <p align="center">
   <img alt="Editor de Texto com declaração e exibição da atribuição" src="../.github/Ambiente_7.png" width="450px"/>
-  <figcaption align="center">
+  <p align="center">
     <i>Var sendo usada em <strong>escopo de função</strong></i>
-  </figcaption>
+  </p>
 </p>
 
 Perceba que ao sair da função **não temos mais o acesso a variável**.

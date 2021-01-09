@@ -30,7 +30,7 @@ Como o JavaScript é uma linguagem de <i>script</i> para WEB, podemos usar o pr�
   <img alt="Editor de Texto com elementos artísticos" src="../.github/Ambiente_8.png" width="550px"/>
 </p>
 
-Observe o **retângulo amarelo** onde mostra as opções dadas ao pressionar os **três pontos** e selecione a opcão que separa para uma **nova janela**.
+Observe o **retângulo amarelo** onde mostra as opções dadas ao pressionar os **três pontos** e selecione a opção que separa para uma **nova janela**.
 
 <br>
 <li> Agora vá para a aba "Console"</li>
