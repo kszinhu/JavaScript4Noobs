@@ -19,13 +19,11 @@ Como o JavaScript é uma linguagem de <i>script</i> para WEB, podemos usar o pr�
   <li> Abra seu navegador.</li>
 
 (recomendado uso do *Google Chrome* ou *Microsoft Edge*, por conta de sempre atualizarem rapidamente o **ECMAScript**).
-
+<br>
 <li> Aperte F12.</li>
  
  - Ou clique com botão direito, na janela do navegador e clique em "**Inspecionar elemento**" ou use o **Ctrl+Shift+I** para abrir direto.
-
-
-
+<br>
 <li> Pressione os três pontinhos no canto superior direito.</li>
 
 <p align="center">
@@ -34,10 +32,11 @@ Como o JavaScript é uma linguagem de <i>script</i> para WEB, podemos usar o pr�
 
 Observe o **retângulo amarelo** onde mostra as opções dadas ao pressionar os **três pontos** e selecione a opcão que separa para uma **nova janela**.
 
+<br>
 <li> Agora vá para a aba "Console"</li>
 
   - Ao entrar dentro da aba, clique com o **botão direito** em qualquer trecho da tela e selecione a opção "**clear console**" e "**clear console history**".
-
+<br>
   <p align="center">
   <img alt="Editor de Texto com elementos artísticos" src="../.github/AmbienteGIF.gif" width="750px"/>
   <p align="center">Nesta imagem você pode observar todos os passos 😀.</p>
