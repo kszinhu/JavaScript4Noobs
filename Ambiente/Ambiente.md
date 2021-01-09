@@ -21,17 +21,26 @@ Como o JavaScript é uma linguagem de <i>script</i> para WEB, podemos usar o pr�
 (recomendado uso do *Google Chrome* ou *Microsoft Edge*, por conta de sempre atualizarem rapidamente o **ECMAScript**).
 
 <li> Aperte F12.</li>
-<small>Ou clique com botão direito, na janela do navegador e clique em "Inspecionar elemento" ou <i>Ctrl+Shift+I</i>.</small>
+ 
+ - Ou clique com botão direito, na janela do navegador e clique em "**Inspecionar elemento**" ou use o **Ctrl+Shift+I** para abrir direto.
 
-(recomendado uso do *Google Chrome* ou *Microsoft Edge*, por conta de sempre atualizarem rapidamente o **ECMAScript**).
+
 
 <li> Pressione os três pontinhos no canto superior direito.</li>
 
 <p align="center">
   <img alt="Editor de Texto com elementos artísticos" src="../.github/Ambiente_8.png" width="550px"/>
-  <figcaption>Observe a secção em vermelho é a página em HTML</figcaption>
 </p>
 
-Observe o retângulo amarelo, selecione a opcão que separa a janela.
+Observe o **retângulo amarelo** onde mostra as opções dadas ao pressionar os **três pontos** e selecione a opcão que separa para uma **nova janela**.
 
+<li> Agora vá para a aba "Console"</li>
+
+  - Ao entrar dentro da aba, clique com o **botão direito** em qualquer trecho da tela e selecione a opção "**clear console**" e "**clear console history**".
+
+  <p align="center">
+  <img alt="Editor de Texto com elementos artísticos" src="../.github/AmbienteGIF.gif" width="750px"/>
+  <p align="center">Nesta imagem você pode observar todos os passos 😀.</p>
+</p>
 </ol>
+
