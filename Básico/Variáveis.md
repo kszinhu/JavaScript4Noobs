@@ -11,7 +11,7 @@ Olá, vamos começar os estudos com a criação e manipulação de dados.
 
 ### 🌐 - Tipos de dados
 
-<p><em>OBS: Os tipos são basicamente os tipos de valores que podemos manipular com a linguagem.</em>
+<p><em>OBS: Os tipos são basicamente os valores que podemos manipular com a linguagem.</em>
   <ul>
     <li>String</li>
     <li>Number</li>
@@ -20,13 +20,15 @@ Olá, vamos começar os estudos com a criação e manipulação de dados.
     <li>Array</li>
     <li>NULL</li>
     <li>Undefined</li>
+    <li>Symbol</li>
+    <li>Fuction</li>
   </ul>
   <i>~ Cada tópico será tratado abaixo, para que possa ficar tudo bem lúcido e fixo na sua cabeça</i> 😃.
 </p>
 
 ### 0️⃣ - Declaração
 
-Então há três formas de declarar uma nova variável, em seu código, elas são:
+Há três formas de declarar uma nova variável, em seu código, elas são:
 
 <ul>
     <li>Var</li>
@@ -34,7 +36,7 @@ Então há três formas de declarar uma nova variável, em seu código, elas sã
     <li>Const</li>
 </ul>
 
-Para que possa usá-las vamos enteder suas diferenças primeiro 😎, mas ainda assim precisamos saber como funciona esses termos: Hoisting e Escopo em JavaScript.
+Para que possa usá-las vamos entender suas diferenças primeiro 😎, mas ainda assim precisamos saber como funciona esses termos: Hoisting e Escopo em JavaScript.
 
 <small>Para isso clique no cursor ao lado de "*Explicação de Conceitos*".</small>
 
@@ -45,7 +47,7 @@ Para que possa usá-las vamos enteder suas diferenças primeiro 😎, mas ainda 
 
 ##### *️⃣ - Hoisting
 
-Uma das vantagens do JavaScript em colocar declarações de função na memória **antes mesmo de executar** qualquer parte do código, permitindo que você use uma função antes mesmo de declarar. 
+Uma das vantagens do JavaScript é colocar declarações de função na memória **antes mesmo de executar** qualquer parte do código, permitindo que você use uma função antes mesmo de declarar. 
 
 > (_Como se a Linguagem levasse a declaração para cima_)
 
@@ -74,10 +76,10 @@ A diferença entre eles é em relação ao escopo, na qual o <strong>escopo</str
 
 > `console.log` - Exibe uma mensagem no Console.
 
-Para entendermos as secções do escopo, veja a imagem abaixo:
+Para entendermos as seções do escopo, veja a imagem abaixo:
 
 <p align="center">
-  <img alt="Editor de Texto com comentários das secções de escopo" src="../.github/Ambiente_5.png" width="350px"/>
+  <img alt="Editor de Texto com comentários das seções de escopo" src="../.github/Ambiente_5.png" width="350px"/>
   <p><i>Observe as posições dos comentários</i></p>
 </p>
 
@@ -117,9 +119,9 @@ Perceba que ao sair da função **não temos mais o acesso a variável**.
 
 ### 1️⃣ - Strings
 
-O tipo `String` é usado para representar texto, mais especificamente uma Cadeia de caracteres.
+O tipo `String` é usado para representar texto, mais especificamente uma **cadeia de caracteres**.
 
-Para declarar (usar o tipo) string podemos usar aspas simples(' ') ou aspas duplas/compostas (" "), assim tudo que estiver dentro das aspas vai ser considerado como texto.
+Para declarar (usar o tipo) string podemos usar aspas simples(' ') ou aspas duplas/compostas (" ") e temos também o (``), assim tudo que estiver dentro das aspas vai ser considerado como texto.
 
 ```js
 var num_text = '72' // Vai ser considerado um texto, não como um número
